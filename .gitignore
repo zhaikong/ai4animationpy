@@ -14,3 +14,5 @@ __pycache__/
 build/
 dist/
 .manifold_cache
+config.bat
+node_modules
